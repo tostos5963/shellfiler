@@ -6732,6 +6732,10 @@ SSH用のエディタを設定しない場合はチェックボックスをOFF�
     <value>カーソルを右Winへ,右Win</value>
     <comment>ツールバー/メニューの項目名</comment>
   </data>
+  <data name="MenuName_CursorLeftRightWindow" xml:space="preserve">
+    <value>カーソルを反対Winへ,反対Win</value>
+    <comment>ツールバー/メニューの項目名</comment>
+  </data>
   <data name="FileListViewMode_NameNone" xml:space="preserve">
     <value>ファイル名を表示しない</value>
     <comment>ファイル一覧の表示モードの表示名</comment>

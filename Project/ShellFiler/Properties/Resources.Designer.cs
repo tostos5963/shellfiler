@@ -10587,6 +10587,15 @@ namespace ShellFiler.Properties {
         }
         
         /// <summary>
+        ///   カーソルを左右Winへ,左右Win に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string MenuName_CursorLeftRightWindow {
+            get {
+                return ResourceManager.GetString("MenuName_CursorLeftRightWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   カーソルを1ページ下へ,Page下へ に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string MenuName_CursorRolldown {

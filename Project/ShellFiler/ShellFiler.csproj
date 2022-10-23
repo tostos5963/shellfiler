@@ -286,6 +286,7 @@
     <Compile Include="src\Command\FileList\MoveCursor\11CursorRightCommand.cs" />
     <Compile Include="src\Command\FileList\MoveCursor\12CursorLeftWindowCommand.cs" />
     <Compile Include="src\Command\FileList\MoveCursor\13CursorRightWindowCommand.cs" />
+    <Compile Include="src\Command\FileList\MoveCursor\14CursorLeftRightWindowCommand.cs" />
     <Compile Include="src\Command\FileList\MoveCursor\20CursorTopCommand.cs" />
     <Compile Include="src\Command\FileList\MoveCursor\21CursorBottomCommand.cs" />
     <Compile Include="src\Command\FileList\MoveCursor\30MarkCommand.cs" />
